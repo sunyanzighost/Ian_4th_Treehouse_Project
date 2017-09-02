@@ -1,0 +1,26 @@
+*{
+  list-style: none;
+  box-sizing: border-box;
+}
+
+.gallery li img{
+  float: left;
+  width: 20%;
+  margin: 2.5%;
+}
+
+.gallery {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+#search {
+  width: 20%;
+  display: block;
+  margin: 30px auto;
+  height: 40px;
+  border-radius: 5%;
+  border-color: #d3d3d3;
+  padding-left: 10px;
+}
+  
